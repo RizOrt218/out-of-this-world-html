@@ -30,7 +30,9 @@ h2 {
 	margin-top: 10px;
 	font-family: copperplate;
 }
-.nav_item {
+
+
+/*.nav_item {
 	margin: 20px 150px;
 }
 
@@ -39,7 +41,7 @@ h2 {
 	padding: 20px;
 }
 
-.nav_item ul li {
+nav {
 	float: left;
 	position: relative;
 	list-style: none;
@@ -57,7 +59,7 @@ h2 {
 	text-transform: uppercase;
 }
 
-.active {
+nav {
 	display: inline;
 }
 
@@ -68,7 +70,7 @@ h2 {
 	
 	/*display: none;*/
 }
-
+*/
 
 h3{
 	color: black;	
