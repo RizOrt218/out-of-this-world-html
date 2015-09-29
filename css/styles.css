@@ -1,8 +1,139 @@
-/*body {
+body {
 	background-attachment: fixed;
-	background-image: url("http://p1.pichost.me/i/22/1456011.jpg");
+	background-image: url("http://images6.fanpop.com/image/photos/33400000/space-colors-space-33432401-1920-1080.jpg");
 	background-repeat: no-repeat;
-}*/
-.title body h1 {
-	font-size: 150;
+	color: #ffffff;
+	font-family: arial;
+
+	
 }
+
+h1 {
+	font-size: 150px;
+	text-align: center;
+	font-family: impact;
+	margin-bottom: 0px;
+	opacity: 0.8;
+	
+}
+#title {
+	background-image: url("http://www.blirk.net/wallpapers/1280x720/space-wallpaper-7.jpg");
+	background-attachment: fixed;
+
+	background-repeat: no-repeat;
+	background-size: 1165px 500px;
+	opacity: 0.7;
+}
+
+h2 {
+	text-align: center;
+	margin-top: 10px;
+	font-family: copperplate;
+}
+.nav_item {
+	margin: 20px 150px;
+}
+
+.nav_item ul {
+	margin: 0px;
+	padding: 20px;
+}
+
+.nav_item ul li {
+	float: left;
+	position: relative;
+	list-style: none;
+}
+
+.nav_item li:hover a {
+	
+	color: #ffffff;
+}
+
+.nav_item a {
+	color: #ff0066;
+	text-decoration: none;
+	padding: 25px;
+	text-transform: uppercase;
+}
+
+.active {
+	display: inline;
+}
+
+.sub_nav {
+	width: 75px;
+	height: 50px;
+	position: absolute;
+	
+	/*display: none;*/
+}
+
+
+h3{
+	color: black;	
+	margin: 30px;
+	background-color: #ffffff;
+	border: 20px gray;
+	opacity:0.2;
+	font-family: copperplate;
+
+}
+
+p {
+	margin: 30px;
+}
+
+#layout {
+	text-align: center;
+	margin-right: 15%;
+	margin-left: 15%;
+}
+
+#main_content span {
+	font-family: impact;
+
+}
+
+#main_content ul{
+	list-style: none;
+	height: 200px;
+	overflow: scroll; 
+	overflow: auto;
+	background-image: url("http://www.graphicnet.co.uk/wp/wp-content/uploads/2013/03/Saturn-Moons.jpg");
+	background-repeat: no-repeat;
+	background-position: center; 
+}
+
+
+
+.planets ul {
+	list-style: none;
+	background-image: url("http://nineplanets.org/images/solar-system-439046_640.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+
+
+
+
+
+footer {
+	text-align: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
