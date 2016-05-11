@@ -40,20 +40,22 @@ var parentNavList = document.querySelector('nav ul');
 
 // create a new element
 
-var loginChild = document.createElement('li');
-loginChild.innerHTML = 'login';
+// var loginChild = document.createElement('li');
+// loginChild.innerHTML = 'login';
 
-//add the new element to the parent element
-parentNavList.appendChild(loginChild);
+// //add the new element to the parent element
+// parentNavList.appendChild(loginChild);
 
 // every time you click on some element
 // add a new '<li>cat</li'>
 
-parentNavList.addEventListener('click', function(){
-	var catChild = document.createElement('li');
-	catChild.innerHTML = 'cat';
-parentNavList.appendChild(catChild);
-});
+// parentNavList.addEventListener('click', function(){
+// 	var catChild = document.createElement('li');
+// 	catChild.innerHTML = 'cat';
+// parentNavList.appendChild(catChild);
+// });
+
+
 
 
 
